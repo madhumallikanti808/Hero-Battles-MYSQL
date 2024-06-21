@@ -1,15 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
 #In this assignment, you’ll be practicing fundamental SQL aggregation functions. 
  
 1) Start by returning all rows and columns from the hero_battles data table.
